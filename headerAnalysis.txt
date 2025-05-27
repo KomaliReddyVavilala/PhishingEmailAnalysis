@@ -1,0 +1,7 @@
+Return-Path: <support@netflx-billing.com>
+Received: from mail.netflx-billing.com (185.244.25.92) by mail.example.com
+Authentication-Results:
+    spf=fail;
+    dkim=fail;
+    dmarc=fail;
+X-Mailer: PHPMailer
