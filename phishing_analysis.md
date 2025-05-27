@@ -57,7 +57,7 @@ This email is a phishing attempt. It is:
 
 ---
 
-## Advices
+## Advice
 
 - Never click unknown links.
 - Always check the sender’s email address.
